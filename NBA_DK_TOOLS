@@ -1,0 +1,34 @@
+import NBA_TOOL_FUNCTIONS
+
+fixFile = 43  # file number
+day = 40 # file number TUESDAY
+lastgame = 43 #game number DK_PTS_30.csv - has last game played and who scored what
+#comment out lines to not run
+
+#fix csv file - Takes a file in semi:colon formate from rotoguru and turns it into csv
+#NBA_TOOL_FUNCTIONS.FixCSV(r'C:\progData\DKvsFD\DK_PTS_' + str(fixFile) + '.csv')
+
+#SalaryDIFF - Takes difference between FanDuel and Draftkings salary and shoots them out into a csv
+#NBA_TOOL_FUNCTIONS.Salary_Diff(day)
+
+#Last 5 days stats of players - Bad games - Bounce back - Ect...
+
+
+#Back2back tool input 3 days into the function yesterday, today, tomorrow
+#NBA_TOOL_FUNCTIONS.back2back('Mon Nov 28 2016','Tue Nov 29 2016','Wed Nov 30 2016','Thu Dec 1 2016','Fri Dec 2 2016')
+
+# Function shows the change in salary between each day - Takes into account all days where I have a DK file
+#NBA_TOOL_FUNCTIONS.SalaryChange(day)
+#NBA_TOOL_FUNCTIONS.SalaryChange2(str(day))
+
+#2Function to show team stats and what teams are weak against what ie defensive rebounds/ offensive rebounds/ turnovers steals ect..
+#Parameters [WhoisPlaying, LastGame, B2B Function]
+#NBA_TOOL_FUNCTIONS.Basketball_Team_Analysis(NBA_TOOL_FUNCTIONS.Who_Is_Playing(day),lastgame,NBA_TOOL_FUNCTIONS.back2back('Sun Dec 11 2016','Mon Dec 12 2016','Tue Dec 13 2016','Wed Dec 14 2016','Thu Dec 15 2016'))
+
+
+#player function in the works
+#NBA_TOOL_FUNCTIONS.Basketball_Player_Analysis('dd','dd',day)
+
+#injuries
+
+

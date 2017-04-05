@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AI_Functions.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DKbumFinder.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ebay_Bot.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Functions.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NBA_SMALL_FUNCTIONS.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NBA_TOOL_FUNCTIONS.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NFL_SCRAPE.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Player.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Twitter_Bot.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebScrap.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai_tests.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autokey.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/experiment.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rotoGuruCSV.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-16" />
+  </component>
+</project>
